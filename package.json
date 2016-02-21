@@ -1,0 +1,14 @@
+{
+  "name": "wct-xunit-reporter",
+  "version": "1.0.0",
+  "description": "WCT plugin to enable test report output in XUnit XML format.",
+  "main": "lib/plugin.js",
+  "wct-plugin": {
+  },
+  "author": "Marcus Kovács",
+  "repository": "https://github.com/garcus/wct-xunit-reporter/",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "xmlbuilder": "latest"
+  }
+}
