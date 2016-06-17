@@ -1,6 +1,6 @@
 {
   "name": "wct-xunit-reporter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "WCT plugin to enable test report output in XUnit XML format.",
   "main": "lib/plugin.js",
   "wct-plugin": {
