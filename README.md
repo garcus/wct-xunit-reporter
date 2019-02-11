@@ -1,6 +1,6 @@
-#wct-xunit-reporter
+# wct-xunit-reporter
 
-##Installing
+## Installing
 
 ```npm install wct-xunit-reporter ```
 
